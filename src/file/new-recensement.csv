@@ -1,0 +1,365 @@
+01;Bourg-en-Bresse;43454
+02;Laon;26031
+02;Saint-Quentin;55940
+02;Soissons;29417
+03;Montluçon;37417
+05;Gap;42567
+06;Antibes;74982
+06;Cagnes-sur-Mer;50385
+06;Cannes;75046
+06;Grasse;51705
+06;Le Cannet;42056
+06;Menton;28942
+06;Nice;345998
+06;Saint-Laurent-du-Var;28831
+06;Vallauris;26787
+08;Charleville-Mézières;48420
+10;Troyes;61988
+11;Carcassonne;47418
+11;Narbonne;55001
+12;Rodez;25747
+13;Aix-en-Provence;146385
+13;Arles;53807
+13;Aubagne;45711
+13;Istres;44248
+13;La Ciotat;35758
+13;Marignane;33949
+13;Marseille;870018
+13;Martigues;49310
+13;Miramas;26217
+13;Salon-de-Provence;46225
+13;Vitrolles;34301
+14;Caen;108461
+15;Aurillac;27659
+16;Angoulême;44629
+17;La Rochelle;78623
+17;Saintes;26890
+18;Bourges;67841
+18;Vierzon;27036
+19;Brive-la-Gaillarde;48333
+21;Dijon;159031
+22;Saint-Brieuc;47058
+24;Bergerac;28166
+24;Périgueux;31505
+25;Besançon;120107
+25;Montbéliard;26015
+26;Montélimar;39924
+26;Romans-sur-Isère;34095
+26;Valence;64322
+27;Évreux;51560
+28;Chartres;40195
+28;Dreux;31575
+29;Brest;142629
+29;Quimper;66743
+2A;Ajaccio;70063
+2B;Bastia;45596
+30;Alès;41129
+30;Nîmes;154196
+31;Colomiers;39200
+31;Muret;25961
+31;Toulouse;482738
+31;Tournefeuille;27008
+33;Bordeaux;256045
+33;Bègles;28092
+33;Gradignan;26029
+33;La Teste-de-Buch;26525
+33;Libourne;25491
+33;Mérignac;71203
+33;Pessac;62737
+33;Saint-Médard-en-Jalles;31576
+33;Talence;44040
+33;Villenave-d'Ornon;33091
+34;Agde;28120
+34;Béziers;77894
+34;Lunel;26263
+34;Montpellier;286098
+34;Sète;44271
+35;Rennes;222104
+35;Saint-Malo;47528
+36;Châteauroux;45780
+37;Joué-lès-Tours;37974
+37;Tours;139963
+38;Bourgoin-Jallieu;28399
+38;Grenoble;160836
+38;Saint-Martin-d'Hères;38974
+38;Vienne;30178
+38;Échirolles;36143
+40;Mont-de-Marsan;31517
+41;Blois;47524
+42;Roanne;35913
+42;Saint-Chamond;35969
+42;Saint-Étienne;174298
+44;Nantes;314611
+44;Orvault;26618
+44;Rezé;41808
+44;Saint-Herblain;47502
+44;Saint-Nazaire;72295
+44;Saint-Sébastien-sur-Loire;27591
+45;Orléans;118102
+47;Agen;34565
+49;Angers;155543
+49;Cholet;55772
+49;Saumur;28554
+49;Sèvremoine;26239
+50;Cherbourg-en-Cotentin;82578
+51;Châlons-en-Champagne;46288
+51;Reims;187074
+52;Saint-Dizier;25666
+53;Laval;52359
+54;Nancy;106953
+54;Vandœuvre-lès-Nancy;30502
+56;Lorient;58789
+56;Vannes;55573
+57;Metz;119856
+57;Thionville;41396
+58;Nevers;34799
+59;Armentières;25373
+59;Cambrai;33349
+59;Douai;40860
+59;Dunkerque;89485
+59;Lambersart;28027
+59;Lille;236782
+59;Marcq-en-Barœul;39697
+59;Maubeuge;29995
+59;Roubaix;96953
+59;Tourcoing;98170
+59;Valenciennes;44509
+59;Villeneuve-d'Ascq;63085
+59;Wattrelos;41570
+60;Beauvais;57548
+60;Compiègne;41660
+60;Creil;36091
+61;Alençon;27221
+62;Arras;41973
+62;Boulogne-sur-Mer;42293
+62;Béthune;25753
+62;Calais;75719
+62;Hénin-Beaumont;26260
+62;Lens;31080
+62;Liévin;31337
+63;Clermont-Ferrand;146112
+64;Anglet;39995
+64;Bayonne;51943
+64;Biarritz;25518
+64;Pau;79022
+65;Tarbes;41862
+66;Perpignan;123602
+67;Haguenau;35024
+67;Illkirch-Graffenstaden;27505
+67;Schiltigheim;32024
+67;Strasbourg;283515
+68;Colmar;71445
+68;Mulhouse;110468
+69;Bron;41589
+69;Caluire-et-Cuire;43546
+69;Décines-Charpieu;28249
+69;Lyon 1er Arrondissement;30423
+69;Lyon 2e Arrondissement;30857
+69;Lyon 3e Arrondissement;103506
+69;Lyon 4e Arrondissement;36524
+69;Lyon 5e Arrondissement;49998
+69;Lyon 6e Arrondissement;52282
+69;Lyon 7e Arrondissement;82651
+69;Lyon 8e Arrondissement;85610
+69;Lyon 9e Arrondissement;51313
+69;Meyzieu;33351
+69;Oullins;26838
+69;Rillieux-la-Pape;30275
+69;Saint-Priest;46153
+69;Vaulx-en-Velin;48906
+69;Villefranche-sur-Saône;37783
+69;Villeurbanne;150375
+69;Vénissieux;65822
+71;Chalon-sur-Saône;47085
+71;Mâcon;34448
+72;Le Mans;146804
+73;Aix-les-Bains;30377
+73;Chambéry;60872
+74;Annecy;130257
+74;Annemasse;35461
+74;Thonon-les-Bains;36296
+75;Paris;2210875
+76;Dieppe;30588
+76;Le Grand-Quevilly;26175
+76;Le Havre;172769
+76;Rouen;112596
+76;Saint-Étienne-du-Rouvray;29180
+76;Sotteville-lès-Rouen;29766
+77;Bussy-Saint-Georges;27299
+77;Chelles;54682
+77;Meaux;56249
+77;Melun;41183
+77;Pontault-Combault;38587
+77;Savigny-le-Temple;30352
+77;Villeparisis;26507
+78;Chatou;31653
+78;Conflans-Sainte-Honorine;36058
+78;Guyancourt;28839
+78;Houilles;32064
+78;Le Chesnay;28558
+78;Les Mureaux;32777
+78;Mantes-la-Jolie;44231
+78;Montigny-le-Bretonneux;33535
+78;Plaisir;32128
+78;Poissy;37524
+78;Rambouillet;26781
+78;Saint-Germain-en-Laye;41749
+78;Sartrouville;53237
+78;Trappes;32931
+78;Versailles;87315
+78;Élancourt;25829
+79;Niort;61044
+80;Amiens;136998
+81;Albi;51151
+81;Castres;42923
+82;Montauban;61978
+83;Draguignan;40928
+83;Fréjus;54023
+83;Hyères;56799
+83;La Garde;25645
+83;La Seyne-sur-Mer;65386
+83;Saint-Raphaël;35826
+83;Six-Fours-les-Plages;33904
+83;Toulon;171643
+84;Avignon;94200
+84;Carpentras;29498
+84;Cavaillon;26985
+84;Orange;29856
+85;La Roche-sur-Yon;56991
+86;Châtellerault;32887
+86;Poitiers;90590
+87;Limoges;135140
+88;Épinal;33454
+89;Auxerre;36804
+89;Sens;26688
+90;Belfort;49926
+91;Athis-Mons;34065
+91;Brunoy;26520
+91;Brétigny-sur-Orge;26702
+91;Corbeil-Essonnes;51682
+91;Draveil;29558
+91;Grigny;29118
+91;Les Ulis;25031
+91;Massy;50549
+91;Palaiseau;34954
+91;Ris-Orangis;29040
+91;Sainte-Geneviève-des-Bois;36219
+91;Savigny-sur-Orge;36677
+91;Vigneux-sur-Seine;31488
+91;Viry-Châtillon;30962
+91;Yerres;29132
+91;Évry;55425
+92;Antony;62989
+92;Asnières-sur-Seine;86678
+92;Bagneux;39977
+92;Bois-Colombes;28607
+92;Boulogne-Billancourt;120943
+92;Châtenay-Malabry;33413
+92;Châtillon;37132
+92;Clamart;53099
+92;Clichy;60746
+92;Colombes;86050
+92;Courbevoie;82351
+92;Gennevilliers;46939
+92;Issy-les-Moulineaux;69231
+92;La Garenne-Colombes;29503
+92;Le Plessis-Robinson;29192
+92;Levallois-Perret;64028
+92;Malakoff;30286
+92;Meudon;46014
+92;Montrouge;49372
+92;Nanterre;96321
+92;Neuilly-sur-Seine;61501
+92;Puteaux;44941
+92;Rueil-Malmaison;79783
+92;Saint-Cloud;30797
+92;Suresnes;49145
+92;Vanves;28148
+93;Aubervilliers;86533
+93;Aulnay-sous-Bois;85214
+93;Bagnolet;36047
+93;Bobigny;52633
+93;Bondy;53416
+93;Clichy-sous-Bois;29978
+93;Drancy;70883
+93;Gagny;39391
+93;La Courneuve;42712
+93;Le Blanc-Mesnil;56346
+93;Livry-Gargan;44721
+93;Montfermeil;26262
+93;Montreuil;109235
+93;Neuilly-sur-Marne;34859
+93;Noisy-le-Grand;67086
+93;Noisy-le-Sec;43693
+93;Pantin;55585
+93;Pierrefitte-sur-Seine;29728
+93;Romainville;26640
+93;Rosny-sous-Bois;45663
+93;Saint-Denis;112309
+93;Saint-Ouen;49949
+93;Sevran;50888
+93;Stains;39776
+93;Tremblay-en-France;35866
+93;Villemomble;30227
+93;Villepinte;36809
+93;Épinay-sur-Seine;55754
+94;Alfortville;44136
+94;Cachan;30524
+94;Champigny-sur-Marne;77883
+94;Charenton-le-Pont;30793
+94;Choisy-le-Roi;44781
+94;Créteil;90052
+94;Fontenay-sous-Bois;53968
+94;Fresnes;27556
+94;Ivry-sur-Seine;61099
+94;L' Haÿ-les-Roses;31416
+94;Le Kremlin-Bicêtre;25422
+94;Le Perreux-sur-Marne;34017
+94;Limeil-Brévannes;26901
+94;Maisons-Alfort;55816
+94;Nogent-sur-Marne;32195
+94;Saint-Maur-des-Fossés;75833
+94;Sucy-en-Brie;26575
+94;Thiais;29295
+94;Villejuif;55805
+94;Villeneuve-Saint-Georges;33135
+94;Villiers-sur-Marne;29407
+94;Vincennes;50300
+94;Vitry-sur-Seine;93317
+95;Argenteuil;112064
+95;Bezons;29216
+95;Cergy;64451
+95;Eaubonne;25514
+95;Ermont;29400
+95;Franconville;36349
+95;Garges-lès-Gonesse;42821
+95;Gonesse;26556
+95;Goussainville;31167
+95;Herblay;29614
+95;Pontoise;31880
+95;Sannois;27118
+95;Sarcelles;58332
+95;Taverny;26541
+95;Villiers-le-Bel;27519
+971;Baie-Mahault;31338
+971;Le Gosier;27023
+971;Les Abymes;54818
+972;Fort-de-France;82030
+972;Le Lamentin;40920
+973;Cayenne;60947
+973;Kourou;26726
+973;Matoury;32768
+973;Remire-Montjoly;26170
+973;Saint-Laurent-du-Maroni;44130
+974;La Possession;33337
+974;Le Port;35141
+974;Le Tampon;78366
+974;Saint-André;56088
+974;Saint-Benoît;38466
+974;Saint-Denis;149337
+974;Saint-Joseph;38167
+974;Saint-Leu;34160
+974;Saint-Louis;53832
+974;Saint-Paul;106920
+974;Saint-Pierre;85059
+974;Sainte-Marie;33587
