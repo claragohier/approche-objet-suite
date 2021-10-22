@@ -57,9 +57,12 @@ public class Application {
 //	
 //		// step 8
 //		Operations.getMaxOccitanie(cities);
-		Operations.getMaxDep(cities);
+//		Operations.getMaxDep(cities);
 		
 		// step 9
+//		Operations.getMostPopRegion(cities);
+//		Operations.getMostPopDep(cities);
+//		Operations.getMostPopCities(cities);
 	}
 
 }
